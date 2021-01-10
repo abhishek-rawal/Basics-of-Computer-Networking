@@ -99,6 +99,4 @@ b. Fiber optic cables - Contain individual optical fiber, which are tiny tubes m
 - Routers store internal tables containing information about howto route traffic between lots of different networks in the world;
 - Home network , local office netowrks have less sophisticated routers, whereas the one connected to the ISP are called core routers which handle a lot of traffic and functionality;
 
-- Border Gateway Protocol (BGP) - Routers share data with each other via this protocol, which lets trhem to learn about the most optimal paths to forward traffic;
-
-
+- Border Gateway Protocol (BGP) - Routers share data with each other via this protocol, which lets them learn about the most optimal paths to forward traffic;

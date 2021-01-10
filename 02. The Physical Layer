@@ -5,7 +5,7 @@ The Physical Layer
 * Bit - The smallest representation of data that a computer can understand; it's a one or zero;
 - Ones and Zeros are sent across the network through a process called modulation;
 * Modulation - It is a way of varying the voltage of the charges moving across the cable;
-* Line coding - Modulations used for computer networks -  enable devices and both ends of the network to realize the sata of data as a ) or a 1;
+* Line coding - Modulations used for computer networks -  enable devices and both ends of the network to realize the set of data as a 0 or a 1;
 - Line coding is the modulation of an electrical charge so that each side of a connection knows what is a one and what is a zero.
 
 Twisted Pair Cabling and Duplexing
@@ -25,7 +25,7 @@ Network Ports and Patch Panels
 * The ends of the twisted pair are attached to plugs. A common plug is the RJ45 port (Registered Jack 45).
 - A network cable with RJ-45 plug can connect to an RJ-45 network port.
 * Network ports are generally directly attached to the devices that make up a computer network;
-- Switched will have many network ports because their purpose is to connect to many devices;
+- Switch will have many network ports because their purpose is to connect to many devices;
 - Servers and desktops usually have only one or two network ports;
 - Laptops, Servers, tablets or phones probably do not have any network ports; (Wireless networking);
 - Most network ports have two small LEDs - Link LED and the other Activity LED;
